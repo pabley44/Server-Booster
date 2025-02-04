@@ -10,4 +10,4 @@ Step 3:
 Start "Bot.bat"
 
 Step 4:
-Now follow the steps from the terminal ;)
+Now follow the steps from the terminal
